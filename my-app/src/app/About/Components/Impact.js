@@ -112,7 +112,7 @@ export default function Impact() {
           <div className="relative">
             <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-orange-500">
               <Image
-                src="/baptiest.jpg"
+                src="https://sparkproductshowcase.lovable.app/assets/baptiest-mol-_sLgaXqw.png"
                 alt="Founder"
                 width={160}
                 height={160}
